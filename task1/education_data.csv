@@ -1,0 +1,16 @@
+StudentID,StudentName,Class,Department,Subject,Marks,Attendance,Teacher,Classroom,Computers,Books,LabEquipment,Date
+S001,Aarav,10,Science,Math,85,92,Mr Sharma,Room101,25,120,15,2024-01-10
+S002,Diya,10,Science,Physics,78,88,Mr Sharma,Room101,25,120,15,2024-01-11
+S003,Arjun,10,Science,Chemistry,82,90,Mr Sharma,Room101,25,120,15,2024-01-12
+S004,Riya,9,Commerce,Accounts,74,86,Ms Patel,Room102,18,95,10,2024-01-13
+S005,Kabir,9,Commerce,Economics,80,91,Ms Patel,Room102,18,95,10,2024-01-14
+S006,Meera,8,Arts,History,76,87,Mr Khan,Room103,15,80,8,2024-01-15
+S007,Aditya,8,Arts,Geography,72,85,Mr Khan,Room103,15,80,8,2024-01-16
+S008,Isha,10,Science,Biology,88,93,Mr Sharma,Room101,25,120,15,2024-01-17
+S009,Rohan,9,Commerce,Business,79,89,Ms Patel,Room102,18,95,10,2024-01-18
+S010,Tara,8,Arts,Political Science,75,84,Mr Khan,Room103,15,80,8,2024-01-19
+S011,Vivaan,10,Science,Math,90,95,Mr Sharma,Room101,25,120,15,2024-01-20
+S012,Ananya,9,Commerce,Economics,83,90,Ms Patel,Room102,18,95,10,2024-01-21
+S013,Rudra,8,Arts,History,70,82,Mr Khan,Room103,15,80,8,2024-01-22
+S014,Saanvi,10,Science,Physics,86,92,Mr Sharma,Room101,25,120,15,2024-01-23
+S015,Krishna,9,Commerce,Accounts,77,88,Ms Patel,Room102,18,95,10,2024-01-24
